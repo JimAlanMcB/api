@@ -1,7 +1,9 @@
 [{
-    "title": "Dogtopia San Jose",
-    "artist": "Romper",
+    "name": "Water Park",
+    "stars": "5",
     "url": "https://www.dogtopia.com/san-jose/",
     "image": "https://video.nest.com/embedded/live/zgP4dyhn9E?",
-    "thumbnail_image": "https://i.imgur.com/K3KJ3w4h.jpg"
+    "thumbnail_image": "https://i.imgur.com/K3KJ3w4h.jpg",
+    "lat" : 33.5606, 
+    "lng" : -112.2370,
 }]
